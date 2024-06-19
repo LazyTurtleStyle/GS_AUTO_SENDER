@@ -9,6 +9,7 @@ Tribalwars NL server
 -pip
 -selenium
 -Chromedriver
+-This needs the official GSTOTARGETVILLAGE script from the tw nl forum (I will link this at the bottom).
 
 What will it do.
 1. It logs in using your credentials.
@@ -75,5 +76,6 @@ Step 10: Closing the Browser
 When the script is done, it closes the browser.
 
 
-
+NL script:
+https://forum.tribalwars.nl/index.php?threads/gstotargetvillage.207833/
 
